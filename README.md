@@ -27,4 +27,4 @@ async def tahmin(ctx, sayi: int = None):
         await ctx.send("⬆️ Daha yüksek!")
     else:
         await ctx.send("⬇️ Daha düşük!")
-bot.run("Token Buraya")
+bot.run("Tokeninizi buraya yazınız")
